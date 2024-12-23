@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022450915226",
+    "project_id": "rfidapp-61a89",
+    "storage_bucket": "rfidapp-61a89.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022450915226:android:4f8edeb83e5429d55d8c23",
+        "android_client_info": {
+          "package_name": "com.example.rfid_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZyzzw1ULrAYBUzDr-5spmhVfD7qFNveI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
