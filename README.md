@@ -130,6 +130,9 @@ Every access attempt is logged, and Firebase notifications are sent to the admin
 - Check the wiring and ensure the relay is connected to the correct GPIO pin.
 - Verify the relay's functionality by testing with a simple GPIO control code.
 
+### Firewall Issues:
+- If you encounter connectivity issues, ensure that the Microsoft Defender Firewall is turned off or configured to allow communication with the server.
+
 ### UID Not Found:
 - Ensure that the UID is present in the database before testing.
 
